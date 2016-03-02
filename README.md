@@ -1,2 +1,3 @@
 # java_exercise
-some java exercise,from simple to complex
+some java exercise,just for personal exercise.
+
