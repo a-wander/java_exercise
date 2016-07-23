@@ -1,0 +1,11 @@
+package com.zhy.poker;
+
+public class Dealer {
+	
+	public Dealer(){
+		
+	}
+	public void setPoker(){
+		
+	}
+}

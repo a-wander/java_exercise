@@ -1,0 +1,14 @@
+package com.zhy.poker;
+
+public class PokerGame {
+
+	public PokerGame() {
+		// 创建荷官
+		Dealer dealer = new Dealer();
+	}
+	public static void main(String[] args) {
+		// 根据输入创建玩家
+		// 开始游戏
+	}
+
+}

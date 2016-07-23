@@ -1,0 +1,20 @@
+package com.zhy.poker;
+
+import java.util.ArrayList;
+
+public class PokerGame {
+
+	public Dealer _dealer;// 荷官
+	public ArrayList<PokerCard> _poker;//扑克牌
+	public PokerGame() {
+		// 创建荷官
+		_dealer = new Dealer();
+		_poker = new ArrayList<PokerCard>();
+	}
+	
+	public static void main(String[] args) {
+		// 根据输入创建玩家
+		// 开始游戏
+	}
+
+}

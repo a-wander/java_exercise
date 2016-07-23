@@ -1,0 +1,10 @@
+package com.zhy.dadarc;
+
+import java.util.Map;
+
+public class Pickup {
+	public Map<String, String> testMap;
+	static void main(String[] args){
+		
+	}
+}

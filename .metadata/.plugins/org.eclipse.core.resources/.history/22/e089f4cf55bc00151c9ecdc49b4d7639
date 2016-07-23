@@ -1,0 +1,10 @@
+package com.zhy.poker;
+
+public class PokerGame {
+
+	public static void main(String[] args) {
+		// 根据输入创建玩家
+		// 开始游戏
+	}
+
+}

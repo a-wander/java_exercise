@@ -1,0 +1,7 @@
+package com.filedb.entitys;
+
+import java.io.Serializable;
+
+public class File extends Serializable {
+
+}

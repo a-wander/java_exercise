@@ -1,0 +1,5 @@
+package com.zhy.dadarc;
+
+public class Pickup {
+	static void main(String args[])
+}

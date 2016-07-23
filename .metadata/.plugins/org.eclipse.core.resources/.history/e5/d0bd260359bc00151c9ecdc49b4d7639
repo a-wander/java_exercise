@@ -1,0 +1,15 @@
+package com.zhy.poker;
+
+import java.util.ArrayList;
+
+public class Dealer {
+	
+	private ArrayList<PokerCard> _poker;// 荷官当前使用的扑克牌
+	/**
+	 * 设置荷官当前使用的扑克牌
+	 * @param poker
+	 */
+	public void setPoker(ArrayList<PokerCard> poker){
+		this._poker = poker;
+	}
+}

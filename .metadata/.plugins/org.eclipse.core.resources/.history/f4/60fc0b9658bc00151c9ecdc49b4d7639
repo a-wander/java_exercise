@@ -1,0 +1,15 @@
+package com.zhy.poker;
+
+import java.util.ArrayList;
+
+public class Dealer {
+	
+	private ArrayList<PokerCard> _poker;
+	
+	public Dealer(){
+		
+	}
+	public void setPoker(ArrayList<PokerCard> poker){
+		poker
+	}
+}

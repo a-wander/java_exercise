@@ -1,0 +1,7 @@
+package com.filedb.share;
+
+import java.io.Serializable;
+
+public class CommandData extends Serializable {
+
+}

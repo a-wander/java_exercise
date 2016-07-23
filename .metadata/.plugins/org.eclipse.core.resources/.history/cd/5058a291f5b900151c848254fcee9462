@@ -1,0 +1,25 @@
+package com.zhy.dadarc;
+
+import java.util.InputMismatchException;
+//import java.util.Map;
+import java.util.Scanner;
+
+public class Pickup {
+	public Map<String, String> testMap;
+	static void main(String[] args){
+		Pickup pickup = new Pickup();
+		pickup.testMap.put("test", "map");
+		try {
+			Scanner in = new Scanner(System.in);
+			int n = in.nextInt();
+		} catch (InputMismatchException e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		} finally {
+			System.out.println("这里终会被执行的!");
+		}
+//		for (Iterable<String> it : pickup.testMap) {
+//			System.out.println(str + ":" + pickup.testMap.get(str));
+//		}
+	}
+}
